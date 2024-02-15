@@ -1,0 +1,97 @@
+Sample,type,Treatment,time,values
+1,Deuterium,Ambient,0,68.86531753
+2,Deuterium,Ambient,0,69.77299903
+3,Deuterium,Ambient,2.983333333,
+4,Deuterium,Ambient,2.983333333,64.16091683
+5,Deuterium,Ambient,6.416666667,57.85926676
+6,Deuterium,Ambient,6.4,57.8099819
+7,Deuterium,Ambient,16.73333333,
+8,Deuterium,Ambient,16.73333333,45.87491537
+9,Deuterium,Ambient,48.01666667,30.68575814
+10,Deuterium,Ambient,48.03333333,30.2914943
+11,Deuterium,Ambient,48.05,31.39002897
+12,Deuterium,Ambient,48.06666667,
+13,18O,Ambient,0,68.04769451
+14,18O,Ambient,0,66.61810268
+15,18O,Ambient,2.733333333,56.00580056
+16,18O,Ambient,2.733333333,57.87234898
+17,18O,Ambient,6.516666667,40.85809059
+18,18O,Ambient,6.516666667,49.09155229
+19,18O,Ambient,16.83333333,32.94935054
+20,18O,Ambient,16.83333333,37.11277864
+21,18O,Ambient,47.66666667,24.34196989
+22,18O,Ambient,47.68333333,24.72820396
+23,18O,Ambient,47.7,25.3353233
+24,18O,Ambient,47.71666667,24.91739677
+25,Deuterium,Drought,0,29.79654533
+26,Deuterium,Drought,0,29.91175337
+27,Deuterium,Drought,2.966666667,28.98687843
+28,Deuterium,Drought,2.966666667,28.84184443
+29,Deuterium,Drought,6.35,28.40782265
+30,Deuterium,Drought,6.333333333,28.85332173
+31,Deuterium,Drought,16.7,26.56672446
+32,Deuterium,Drought,16.7,27.63396791
+33,Deuterium,Drought,48.06666667,24.54048433
+34,Deuterium,Drought,48.08333333,24.67411605
+35,Deuterium,Drought,48.1,24.87664155
+36,Deuterium,Drought,48.11666667,25.56592438
+37,18O,Drought,0,28.32282079
+38,18O,Drought,0,27.41711166
+39,18O,Drought,2.716666667,25.75237886
+40,18O,Drought,2.716666667,27.81661447
+41,18O,Drought,6.483333333,25.37126504
+42,18O,Drought,6.483333333,26.62390834
+43,18O,Drought,16.8,23.76112619
+44,18O,Drought,16.8,23.58496251
+45,18O,Drought,47.73333333,23.12567395
+46,18O,Drought,47.75,22.75122228
+47,18O,Drought,47.76666667,23.5273264
+48,18O,Drought,47.78333333,23.72499068
+49,Deuterium,Future Climate,0,68.86531753
+50,Deuterium,Future Climate,0,69.77299903
+51,Deuterium,Future Climate,3.016666667,63.29140297
+52,Deuterium,Future Climate,3.016666667,63.21161701
+53,Deuterium,Future Climate,6.416666667,55.15431587
+54,Deuterium,Future Climate,6.4,55.70329065
+55,Deuterium,Future Climate,16.75,44.14512948
+56,Deuterium,Future Climate,16.75,
+57,Deuterium,Future Climate,48.11666667,30.76192837
+58,Deuterium,Future Climate,48.13333333,30.18774856
+59,Deuterium,Future Climate,48.15,30.48096719
+60,Deuterium,Future Climate,48.16666667,30.3980156
+61,18O,Future Climate,0,68.04769451
+62,18O,Future Climate,0,66.61810268
+63,18O,Future Climate,2.75,56.85806243
+64,18O,Future Climate,2.75,57.92710199
+65,18O,Future Climate,6.533333333,45.85366283
+66,18O,Future Climate,6.533333333,42.95724417
+67,18O,Future Climate,16.85,28.68498721
+68,18O,Future Climate,16.85,32.11761549
+69,18O,Future Climate,47.78333333,25.62378998
+70,18O,Future Climate,47.81666667,24.51992344
+71,18O,Future Climate,47.83333333,22.96349023
+72,18O,Future Climate,47.85,25.86759967
+73,Deuterium,Future Climate + Drought,0,29.79654533
+74,Deuterium,Future Climate + Drought,0,29.91175337
+75,Deuterium,Future Climate + Drought,2.983333333,29.01176841
+76,Deuterium,Future Climate + Drought,2.966666667,29.43471798
+77,Deuterium,Future Climate + Drought,6.35,28.21545418
+78,Deuterium,Future Climate + Drought,6.35,28.33784865
+79,Deuterium,Future Climate + Drought,16.71666667,26.87993213
+80,Deuterium,Future Climate + Drought,16.71666667,27.76708952
+81,Deuterium,Future Climate + Drought,48.16666667,25.15650751
+82,Deuterium,Future Climate + Drought,48.18333333,25.71311881
+83,Deuterium,Future Climate + Drought,48.2,24.98784379
+84,Deuterium,Future Climate + Drought,48.21666667,26.29840085
+85,18O,Future Climate + Drought,0,28.32282079
+86,18O,Future Climate + Drought,0,27.41711166
+87,18O,Future Climate + Drought,2.733333333,28.10676753
+88,18O,Future Climate + Drought,2.733333333,27.80529256
+89,18O,Future Climate + Drought,6.5,26.22808457
+90,18O,Future Climate + Drought,6.5,27.17448479
+91,18O,Future Climate + Drought,16.81666667,24.09119383
+92,18O,Future Climate + Drought,16.81666667,23.04337009
+93,18O,Future Climate + Drought,47.85,24.00526997
+94,18O,Future Climate + Drought,47.86666667,23.4484585
+95,18O,Future Climate + Drought,47.88333333,23.58800535
+96,18O,Future Climate + Drought,47.93333333,25.23668286
