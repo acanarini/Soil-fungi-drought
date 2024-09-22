@@ -384,3 +384,32 @@ totF
 totFD
 
 
+
+#all together
+
+#plot graph for FD
+FD = ggplot(data = data_18O, aes(x = time, y = values, group= Treatment))+
+   geom_point( shape = 21, colour = "black", size = 2, stroke = 1)+
+   stat_function(fun=eq1, geom="line",colour = "black", size = 0.5, linetype = 2)+
+   stat_function(fun=eq3, geom="line",colour = "green", size = 0.5, linetype = 2)+
+   stat_function(fun=eq5, geom="line",colour = "grey", size = 0.5, linetype = 2)+
+   
+   stat_function(fun=eq7, geom="line",colour = "#e77e39", size = 0.5, linetype = 1)+
+   
+   theme(
+      panel.background = element_rect(fill = "white", colour = "black",
+                                      size = 0.5, linetype = "solid"),
+      panel.grid.major = element_blank(), 
+      panel.grid.minor = element_blank()
+   )+
+   labs(title = "Future Climate + Drought") +ylab(bquote(' '^18*'O atom%'))+xlab('Time (hours)')+
+   theme(
+      plot.title = element_textbox(
+         hjust = 0.5, margin = margin(t = 5, b = 5)
+      )
+   ) +ylim(0,100)
+FD
+
+
+
+

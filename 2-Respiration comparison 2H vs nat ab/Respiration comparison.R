@@ -7,7 +7,6 @@ library(forcats)
 file <- file.choose(new = FALSE)
 data <- read.csv(file,header=T,dec=".",sep=",")
 
-data<-subset(data, Time!="Rewet")
 
 #create variable for plotting
 
